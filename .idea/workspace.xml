@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7ea63c89-d329-4121-abec-09462e961b81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/admin_article_form.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/admin_article_form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/components/algolia-autocomplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/components/algolia-autocomplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/account.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/account.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/account/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/account/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/security/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/security/login.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/security/register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/security/register.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -201,7 +204,8 @@
       <workItem from="1568451197659" duration="3285000" />
       <workItem from="1568537445354" duration="2653000" />
       <workItem from="1568564174676" duration="3105000" />
-      <workItem from="1568622983134" duration="1364000" />
+      <workItem from="1568622983134" duration="1433000" />
+      <workItem from="1568647372465" duration="436000" />
     </task>
     <servers />
   </component>
