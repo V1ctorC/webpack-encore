@@ -26,6 +26,6 @@
     },
     "dependencies": {},
     "browserslist": [
-        "> 0.5%"
+        "> .05%"
     ]
 }
