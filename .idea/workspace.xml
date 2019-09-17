@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7ea63c89-d329-4121-abec-09462e961b81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/admin_article_form.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/admin_article_form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/article_show.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/article_show.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/article/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/article/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +203,7 @@
       <workItem from="1568564174676" duration="3105000" />
       <workItem from="1568622983134" duration="1433000" />
       <workItem from="1568647372465" duration="1799000" />
-      <workItem from="1568709794290" duration="681000" />
+      <workItem from="1568709794290" duration="1190000" />
     </task>
     <servers />
   </component>
